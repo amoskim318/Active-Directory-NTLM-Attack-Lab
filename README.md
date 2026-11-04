@@ -1,5 +1,7 @@
 ## Active Directory NTLM Attack & Defense Lab
 
+<img src="https://raw.githubusercontent.com/amoskim318/Active-DIrectory-NTLM-Attack-Lab/main/res/active_directory/password_auditing.jpg" width="1000" >
+
 # A Practical Active Directory Security Assessment and Hardening Project
 
 An hands-on cybersecurity lab exploring Active Directory authentication security, SMB protocol weaknesses, NTLM credential exposure, and common authentication attack techniques. The project demonstrates how these weaknesses can be identified, assessed, and mitigated in a controlled Windows domain environment.
